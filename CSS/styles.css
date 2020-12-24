@@ -1,0 +1,16 @@
+html,body{
+    background: #000;
+    margin: 0;
+    padding: 0;
+  }
+  #scenew{
+      position: relative;
+      margin: auto;
+      width: 500px;
+      text-align: center;
+  }
+  #scenew p{
+    color: #fff;
+    font-size: 3em;
+    margin: 10px 0 -40px 0;
+  }
